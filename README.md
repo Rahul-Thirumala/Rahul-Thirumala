@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/crucio-ronin/crucio-ronin/blob/main/DataScience.jpg" width=100%  />
+<img src="https://github.com/Rahul-Thirumala/Rahul-Thirumala/blob/main/data_science_github.jpg" width=100%  />
 </p>
 
 ## Hi, My Name is Rahul! 👋
@@ -8,7 +8,7 @@ I'm a passionate individual with a keen interest in data exploration and analysi
 
 I love what I do and I am always happy to chat.
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/suhasvivek/)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rahulthirumala/)
 
 
 ## About Me: 
