@@ -4,9 +4,9 @@
 
 ## Hi, My Name is Rahul! 👋
 
-I'm a passionate individual with a keen interest in data exploration and analysis, dedicated to promoting diversity within the tech industry.
+As a passionate individual with a keen interest in exploring and unraveling data, committed to driving positive change and impact in the tech landscape.
 
-I love what I do and I am always happy to chat.
+Driven by the pursuit of uncovering insights and solving data puzzles, I'm always eager to engage in discussions and share knowledge.
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rahulthirumala/)
 
@@ -25,10 +25,8 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 
 ## Education: 
 
-**Master of Data Science with Distinction** | University of Western Australia, 2024 
 
-
-**Bachelor of Engineering(Electronics and communication)** | Visvesvaraya Technological University, 2021
+**Bachelor of Engineering(Electronics and communication)** | Visvesvaraya Technological University, 2024
 
 <br/>
 
