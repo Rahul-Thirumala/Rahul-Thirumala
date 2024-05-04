@@ -13,7 +13,9 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rahulthirumala/
 
 ## About Me: 
 
-As someone deeply fascinated by data, I thrive on uncovering insights and optimizing operations. During my internship, I tackled hospitality data challenges head-on, integrating various sources, automating tasks with Python, developed a novel flow-chart and decesion tree framework to solve the record-linkage problem at Sugamya-Hospitality and crafted visualizations for informed decision-making. I'm also experienced in collaborating with teams and documenting processes. 
+As someone deeply fascinated by data, I thrive on uncovering insights and optimizing operations.
+During my internship at CodeSamarthya, I tackled hospitality data challenges head-on, integrating various sources, automating tasks with Python, developed a novel flow-chart and decesion tree framework to solve the record-linkage problem at Sugamya-Hospitality and crafted visualizations for informed decision-making.
+I'm also experienced in collaborating with teams and documenting processes. 
 
 Let's connect and work together to achieve impactful results!
 
@@ -48,33 +50,26 @@ Technologies:
 </td>
 </tr>
 </table>
-     
 
-<!-- ### Cloud Functions  -->
+<td width="500px" valign="top">    
 
+[**Record Linkage: Data Wrangling with Pandas and NumPy**]()
 
-
-## Data Storage 
-
-<table>
-<tr>
-<td width="500px"  valign="top">
-
-[**Perth Crash Data Storage & Visualisation**](https://github.com/davidptsmith/Crash-Data-SQL-Server-PowerBI-Neo4j)
+Description: 
+Implemented record linkage to merge data from different sources using pandas and numpy.
 
 Technologies: 
-- Python 
-- SQL & Cypher 
-- SQL Server
-- Neo4J
-- PowerBI
+- Python
+- pandas
+- NumPy
+- Git/GitHub
 
-      
 </td>
 </tr>
 </table>
+     
 
-
+<!-- ### Cloud Functions  -->
 
 
 <!--
