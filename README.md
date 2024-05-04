@@ -13,14 +13,9 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rahulthirumala/
 
 ## About Me: 
 
-I am a driven data enthusiast based in Perth, Australia, currently pursuing a Master's in Data Science at the University of Western Australia. With a background in Electronics and Communication Engineering, I bring a strong skill set in Python, SQL, R, Excel, Tableau, and Power BI.
+As someone deeply fascinated by data, I thrive on uncovering insights and optimizing operations. During my internship, I tackled hospitality data challenges head-on, integrating various sources, automating tasks with Python, developed a novel flow-chart and decesion tree framework to solve the record-linkage problem at Sugamya-Hospitality and crafted visualizations for informed decision-making. I'm also experienced in collaborating with teams and documenting processes. 
 
-During my internship at AYLA Solutions, I developed an Economic Indicator Dashboard and created a machine learning model to predict air ticket prices. Beyond my academic pursuits, I actively contribute to the Data Science Club at UWA and engage in volunteer work with organizations like UniStart UWA and Gosnells Toy Library.
-
-I am a proactive team player passionate about leveraging data to drive meaningful insights and solutions.
-
-I am always up for a chat so if you would like to nerd out on any topic please get in touch. 
-
+Let's connect and work together to achieve impactful results!
 
 
 ## Education: 
