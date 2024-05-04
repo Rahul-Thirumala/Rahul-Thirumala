@@ -36,52 +36,14 @@ Click the headings to read more about the project & go to the repo.
     <tr>
         <td width="500px" valign="top">    
 
-[**NLP: Custom Job Search Chat Bot**]()
+[**Adventure Sports Sales Analysis with Power BI**]()
+
+Description: 
+This project provides a detailed analysis of adventure sports product sales, highlighting trends, product performance, and customer insights using Power BI.
 
 Technologies: 
-- Python 
-- Spacy 
-- Telegram 
-
-</td>
-        
- <td width="500px"  valign="top">
-
-[**NLP: Text Classification with Pytorch**]()
-
-Technologies: 
-- Python 
-- PyTorch 
-
-Models: 
-- MLP & CNN
-- RNN, GRU, & LSTM
-
-</td>
-</tr>
-<tr>
-<td width="500px"  valign="top">
-
-[**ML: Breast Cancer Survival Prediction**](https://github.com/crucio-ronin/MLProjects/tree/ef3180bc304630547392a4fec9d3fcbc60f2212b/Breast-Cancer-Survival-Prediction)
-
-Technologies: 
-- Python
-- Streamlit
-
-Models: 
-- CatBoost
-     
-</td>
-<td width="500px"  valign="top">
-
-[**CV: Image Classification & Exploration of Feed Forward Neural Networks**]()
-
-Technologies: 
-- Python 
-- Scikit learn & Keras 
-
-Models: 
-- MLP & CNN
+- Power BI
+- Microsoft Excel
 
 </td>
 </tr>
