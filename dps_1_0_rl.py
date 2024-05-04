@@ -42,11 +42,14 @@ Author(s)
     *Nidhi Shastry (nidhishastry08@gmail.com)
         VVCE, Vijayangara 2nd Stage
 
+    *Manoj Kumar J (manoj.kumar04102002@gmail.com)
+        VVCE, Vijayangara 2nd Stage
+
 
 Project Ownership
 -----------------
 Gaurav S Hegde (grv.hegde@gmail.com)
-CodeS─ümarthya, SAfE
+CodeSamarthya, SAfE
 
 References
 ----------
