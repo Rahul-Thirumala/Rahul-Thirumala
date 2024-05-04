@@ -50,7 +50,7 @@ Technologies:
 </td>
         <td width="50%" valign="top">    
 
-[**Record Linkage: Data Wrangling with Pandas and NumPy**]()
+[**Record Linkage: Data Wrangling with Pandas and NumPy**](https://github.com/Rahul-Thirumala/Rahul-Thirumala/blob/main/dps_1_0_rl.py)
 
 Description: 
 Implemented record linkage to merge data from different sources using pandas and numpy. 
