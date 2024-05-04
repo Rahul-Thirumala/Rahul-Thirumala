@@ -38,7 +38,7 @@ Click the headings to read more about the project & go to the repo.
     <tr>
         <td width="50%" valign="top">    
 
-[**Power BI:Adventure Sports Sales Analysis**]()
+[**Power BI:Adventure Sports Sales Analysis**](https://github.com/Rahul-Thirumala/Rahul-Thirumala/blob/main/PowerBI_Report.pdf)
 
 Description: 
 This project provides a detailed analysis of adventure sports product sales, highlighting trends, product performance, and customer insights using Power BI.
