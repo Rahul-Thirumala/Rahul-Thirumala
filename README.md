@@ -38,7 +38,7 @@ Click the headings to read more about the project & go to the repo.
     <tr>
         <td width="50%" valign="top">    
 
-[**Adventure Sports Sales Analysis with Power BI**]()
+[**Power BI:Adventure Sports Sales Analysis**]()
 
 Description: 
 This project provides a detailed analysis of adventure sports product sales, highlighting trends, product performance, and customer insights using Power BI.
@@ -53,8 +53,7 @@ Technologies:
 [**Record Linkage: Data Wrangling with Pandas and NumPy**]()
 
 Description: 
-Implemented record linkage to merge data from different sources using pandas and numpy. Explored data wrangling techniques for efficient data matching.
-
+Implemented record linkage to merge data from different sources using pandas and numpy. 
 Technologies: 
 - Python
 - pandas
