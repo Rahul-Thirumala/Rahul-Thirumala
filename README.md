@@ -36,7 +36,7 @@ Click the headings to read more about the project & go to the repo.
 
 <table>
     <tr>
-        <td width="500px" valign="top">    
+        <td width="50%" valign="top">    
 
 [**Adventure Sports Sales Analysis with Power BI**]()
 
@@ -48,15 +48,12 @@ Technologies:
 - Microsoft Excel
 
 </td>
-</tr>
-</table>
-
-<td width="500px" valign="top">    
+        <td width="50%" valign="top">    
 
 [**Record Linkage: Data Wrangling with Pandas and NumPy**]()
 
 Description: 
-Implemented record linkage to merge data from different sources using pandas and numpy.
+Implemented record linkage to merge data from different sources using pandas and numpy. Explored data wrangling techniques for efficient data matching.
 
 Technologies: 
 - Python
@@ -67,6 +64,7 @@ Technologies:
 </td>
 </tr>
 </table>
+
      
 
 <!-- ### Cloud Functions  -->
