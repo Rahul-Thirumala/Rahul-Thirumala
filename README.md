@@ -54,6 +54,7 @@ Technologies:
 
 Description: 
 Implemented record linkage to merge data from different sources using pandas and numpy. 
+
 Technologies: 
 - Python
 - pandas
