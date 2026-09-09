@@ -24,6 +24,7 @@ Let's connect and work together to achieve impactful results!
 
 
 **Bachelor of Engineering(Electronics and communication)** | Visvesvaraya Technological University, 2024
+
 **Master of Data Science** | The University Of Western Australia, 2026
 
 <br/>
